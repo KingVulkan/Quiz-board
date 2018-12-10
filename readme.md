@@ -1,14 +1,19 @@
 #QUIZ BOARD
+
 This is a web page that uses html and cascading stylesheets
 
 ##AUTHOR NAME
+
 Abdulrahman Abdullahi Omar
 
 ###DESCRIPTION OF PROJECT
+
 This website is a quiz that was made by Abdulrahman Abdullahi Omar. It entails
 5 questions concerning Javascript in a quiz.
 
 ####PROJECT SETUP INSTRUCTIONS
+
+
 On Github ,navigate to your fork of the Spoon-Knife repository
 Under the repository name which is portfolio,click clone or download
 In the clone with the HTTPs section ,click to copy the clone URL for the repository
@@ -18,6 +23,7 @@ Open
 
 
 ######LICENSE
+
 MIT License
 
 Copyright <2018> <Abdulrahman Abdullahi Omar>
